@@ -1,10 +1,6 @@
-# Assistant virtuel d'hôtel — un RAG construit, évalué et mis à l'épreuve
+# Assistant virtuel d'hôtel : un RAG construit, évalué et mis à l'épreuve
 
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Hugging Face](https://img.shields.io/badge/🤗-Transformers-FFD21E)](https://huggingface.co/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badaouihakimou/hotel-rag-assistant/blob/main/notebook.ipynb)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 > Un hôtel veut un assistant qui réponde aux questions de ses clients à partir de sa
 > documentation interne — cinq PDF — sans jamais inventer.

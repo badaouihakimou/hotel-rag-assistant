@@ -48,7 +48,7 @@ périmètre de celles qui n'en sont pas ; un seuil calibré dessus permet de ref
 appeler le LLM : refus garanti, réponse instantanée, zéro risque d'hallucination.
 
 Une étude du `top_k` : la couverture plafonne pendant que la taille du contexte croît
-linéairement. Plus de rubriques n'est pas mieux — c'est exactement le problème de la partie 2.
+linéairement. Plus de rubriques n'est pas mieux c'est exactement le problème de la partie 2.
 
 Une comparaison sémantique / hybride. Les embeddings comprennent le sens, TF-IDF trouve les
 mots exacts. Le notebook teste plusieurs pondérations et retient la meilleure, avec préférence
